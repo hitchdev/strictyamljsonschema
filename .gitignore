@@ -1,0 +1,11 @@
+build/
+dist/
+.cache
+strictyamljsonschema.egg-info/
+__pycache__
+*.pyc
+*.kate-swp
+hitch/gen
+hitch/personalsettings.yml
+temp/
+.vscode/
